@@ -1,4 +1,4 @@
-# UCLA Admission Neural Network: Dashboard Live Application
+# UCLA Neural Network: Dashboard Live Application
 
 Click the badge or the text link below to open the deployment in a new tab:
 <a href="https://atcqsavp3zea84cu22m88t.streamlit.app/" target="_blank">
