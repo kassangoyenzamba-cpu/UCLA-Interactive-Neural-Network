@@ -1,9 +1,13 @@
-# UCLA Admission Neural Network Dashboard, Modular Edition
+# UCLA Admission Neural Network: Dashboard Live Application
 
-Same functionality as the single file version, restructured into the
-`src/` / `components/` / `tests/` architecture used for the other
-dashboards in this project: model logic separated from UI, cacheable
-model loading, and a pytest suite for preprocessing and training.
+Click the badge or the text link below to open the deployment in a new tab:
+
+<a href="https://atcqsavp3zea84cu22m88t.streamlit.app/" target="_blank">
+  <img src="https://streamlit.io" alt="Streamlit App">
+</a>
+
+<a href="https://atcqsavp3zea84cu22m88t.streamlit.app/" target="_blank">👉 Open Interactive ML Dashboard</a>
+
 
 ## Folder structure
 
