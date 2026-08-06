@@ -1,5 +1,5 @@
 """
-UCLA Interactive Neural Network Dashboard (modular)
+UCLA Interactive Neural Network
 ============================================================================
 Entry point: layout, navigation, sidebar. All data and ML logic lives in
 src/, all reusable UI pieces live in components/.
