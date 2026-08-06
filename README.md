@@ -1,7 +1,6 @@
 # UCLA Admission Neural Network: Dashboard Live Application
 
 Click the badge or the text link below to open the deployment in a new tab:
-
 <a href="https://atcqsavp3zea84cu22m88t.streamlit.app/" target="_blank">
   <img src="https://streamlit.io" alt="Streamlit App">
 </a>
